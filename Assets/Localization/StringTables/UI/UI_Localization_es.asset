@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Localization_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 3b21a58a450cf614f8a29ff3384a72db, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2538379493376
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613591752704
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2667220123648
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2704796893184
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2761579380736
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2820886839296
+    m_Localized: "Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2869314273280
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2909155966976
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2954957766656
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
