@@ -51,6 +51,18 @@ MonoBehaviour:
     m_Key: room.room_label
     m_Metadata:
       m_Items: []
+  - m_Id: 701548446695424
+    m_Key: quiz_start.new.game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 702107836825600
+    m_Key: quiz_leave.game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706257001725952
+    m_Key: quiz_intro
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

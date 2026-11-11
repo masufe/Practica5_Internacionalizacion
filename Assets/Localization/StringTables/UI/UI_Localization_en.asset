@@ -54,6 +54,20 @@ MonoBehaviour:
     m_Localized: Room
     m_Metadata:
       m_Items: []
+  - m_Id: 701548446695424
+    m_Localized: Start New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 702107836825600
+    m_Localized: Leave Session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706257001725952
+    m_Localized: 'Select The Correct Answer
+
+      Starting Game Soon'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

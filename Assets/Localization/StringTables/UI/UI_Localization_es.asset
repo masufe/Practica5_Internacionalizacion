@@ -54,6 +54,18 @@ MonoBehaviour:
     m_Localized: Sala
     m_Metadata:
       m_Items: []
+  - m_Id: 701548446695424
+    m_Localized: Volver a jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 702107836825600
+    m_Localized: Abandonar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706257001725952
+    m_Localized: "Selecciona La Respuesta Correcta\nEl Juego Comenzar\xE1 Pronto"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
