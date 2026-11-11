@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
 
 /// <summary>
 /// Singleton network behavoir that manages the game and is managed by the shared mode master client.
@@ -94,6 +96,18 @@ public class TriviaManager : NetworkBehaviour, IStateAuthorityChanged
 
     [Tooltip("The amount of points earned based on the percentage of remaining time.  So 100 would make the player earn 50 points if they answered at the 50% mark.")]
     public int timeBonus;
+
+    private const string QUIZ_TABLE = "Quiz_Localization";
+
+    private void OnEnable()
+    {
+        LocalizationSettings.SelectedLocaleChanged += OnSelectedLocaleChanged;
+    }
+
+    private void OnDisable()
+    {
+        LocalizationSettings.SelectedLocaleChanged -= OnSelectedLocaleChanged;
+    }
 
     #region SFX
     [Header("SFX Audio Sources")]
@@ -444,13 +458,7 @@ public class TriviaManager : NetworkBehaviour, IStateAuthorityChanged
 
             int questionIndex = randomizedQuestionList[CurrentQuestion];
 
-            question.text = triviaQuestions.Questions[questionIndex].question;
-
-            answers[0].text = triviaQuestions.Questions[questionIndex].correctAnswer;
-
-            answers[1].text = triviaQuestions.Questions[questionIndex].decoyAnswers[0];
-            answers[2].text = triviaQuestions.Questions[questionIndex].decoyAnswers[1];
-            answers[3].text = triviaQuestions.Questions[questionIndex].decoyAnswers[2];
+            UpdateLocalizedQuestionTexts(questionIndex);
 
             // Scrambles the answers.  This can be different per player.
             List<int> answerIndices = new List<int>() { 0, 1, 2, 3 };
@@ -521,5 +529,38 @@ public class TriviaManager : NetworkBehaviour, IStateAuthorityChanged
         {
             startNewGameBtn.SetActive(Runner.IsSharedModeMasterClient);
         }
+    }
+
+
+    private void OnSelectedLocaleChanged(Locale locale)
+    {
+        if (CurrentQuestion < 0)
+            return;
+
+        int questionIndex = randomizedQuestionList[CurrentQuestion];
+
+        UpdateLocalizedQuestionTexts(questionIndex);
+    }
+
+    private void UpdateLocalizedQuestionTexts(int questionIndex)
+    {
+        int questionNumber = questionIndex + 1;
+
+        string prefix = $"quiz.q{questionNumber:00}.";
+
+        question.text = LocalizationSettings.StringDatabase.GetLocalizedString(
+            QUIZ_TABLE, prefix + "question");
+
+        answers[0].text = LocalizationSettings.StringDatabase.GetLocalizedString(
+            QUIZ_TABLE, prefix + "correct_answer");
+
+        answers[1].text = LocalizationSettings.StringDatabase.GetLocalizedString(
+            QUIZ_TABLE, prefix + "option_b");
+
+        answers[2].text = LocalizationSettings.StringDatabase.GetLocalizedString(
+            QUIZ_TABLE, prefix + "option_c");
+
+        answers[3].text = LocalizationSettings.StringDatabase.GetLocalizedString(
+            QUIZ_TABLE, prefix + "option_d");
     }
 }
