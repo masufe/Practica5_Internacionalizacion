@@ -1,0 +1,251 @@
+﻿Key,Id,English(en),Spanish(es)
+quiz.q01.question,,What is the capital of France?,¿Cuál es la capital de Francia?
+quiz.q01.correct_answer,,Paris,París
+quiz.q01.option_b,,Berlin,Berlín
+quiz.q01.option_c,,Rome,Roma
+quiz.q01.option_d,,Madrid,Madrid
+quiz.q02.question,,In which year did World War II end?,¿En qué año terminó la Segunda Guerra Mundial?
+quiz.q02.correct_answer,,1945,1945
+quiz.q02.option_b,,1943,1943
+quiz.q02.option_c,,1947,1947
+quiz.q02.option_d,,1950,1950
+quiz.q03.question,,"Who wrote the play ""Romeo and Juliet""?",¿Quién escribió la obra de teatro «Romeo y Julieta»?
+quiz.q03.correct_answer,,William Shakespeare,William Shakespeare
+quiz.q03.option_b,,Charles Dickens,Charles Dickens
+quiz.q03.option_c,,Jane Austen,Jane Austen
+quiz.q03.option_d,,Mark Twain,Mark Twain
+quiz.q04.question,,What is the largest planet in our solar system?,¿Cuál es el planeta más grande de nuestro sistema solar?
+quiz.q04.correct_answer,,Jupiter,Júpiter
+quiz.q04.option_b,,Venus,Venus
+quiz.q04.option_c,,Mars,Marte
+quiz.q04.option_d,,Saturn,Saturno
+quiz.q05.question,,What is the chemical symbol for gold?,¿Cuál es el símbolo químico del oro?
+quiz.q05.correct_answer,,Au,Au
+quiz.q05.option_b,,Ag,Ag
+quiz.q05.option_c,,Fe,Fe
+quiz.q05.option_d,,Hg,Hg
+quiz.q06.question,,Which famous scientist developed the theory of relativity?,¿Qué famoso científico desarrolló la teoría de la relatividad?
+quiz.q06.correct_answer,,Albert Einstein,Albert Einstein
+quiz.q06.option_b,,Isaac Newton,Isaac Newton
+quiz.q06.option_c,,Galileo Galilei,Galileo Galilei
+quiz.q06.option_d,,Stephen Hawking,Stephen Hawking
+quiz.q07.question,,In what year did the Titanic sink?,¿En qué año se hundió el Titanic?
+quiz.q07.correct_answer,,1912,1912
+quiz.q07.option_b,,1910,1910
+quiz.q07.option_c,,1915,1915
+quiz.q07.option_d,,1920,1920
+quiz.q08.question,,What is the capital of Japan?,¿Cuál es la capital de Japón?
+quiz.q08.correct_answer,,Tokyo,Tokio
+quiz.q08.option_b,,Seoul,Seúl
+quiz.q08.option_c,,Beijing,Pekín
+quiz.q08.option_d,,Bangkok,Bangkok
+quiz.q09.question,,Who painted the Mona Lisa?,¿Quién pintó la Mona Lisa?
+quiz.q09.correct_answer,,Leonardo da Vinci,Leonardo da Vinci
+quiz.q09.option_b,,Vincent van Gogh,Vincent van Gogh
+quiz.q09.option_c,,Pablo Picasso,Pablo Picasso
+quiz.q09.option_d,,Michelangelo,Miguel Ángel
+quiz.q10.question,,What is the largest ocean on Earth?,¿Cuál es el océano más grande de la Tierra?
+quiz.q10.correct_answer,,Pacific Ocean,Océano Pacífico
+quiz.q10.option_b,,Atlantic Ocean,Océano Atlántico
+quiz.q10.option_c,,Indian Ocean,Océano Índico
+quiz.q10.option_d,,Arctic Ocean,Océano Ártico
+quiz.q11.question,,"Which planet is known as the ""Red Planet""?",¿Qué planeta es conocido como el «planeta rojo»?
+quiz.q11.correct_answer,,Mars,Marte
+quiz.q11.option_b,,Venus,Venus
+quiz.q11.option_c,,Jupiter,Júpiter
+quiz.q11.option_d,,Saturn,Saturno
+quiz.q12.question,,Who is the author of the Harry Potter series?,¿Quién es el autor de la saga de Harry Potter?
+quiz.q12.correct_answer,,J.K. Rowling,J. K. Rowling
+quiz.q12.option_b,,J.R.R. Tolkien,J. R. R. Tolkien
+quiz.q12.option_c,,George R.R. Martin,George R. R. Martin
+quiz.q12.option_d,,Suzanne Collins,Suzanne Collins
+quiz.q13.question,,What is the capital of Australia?,¿Cuál es la capital de Australia?
+quiz.q13.correct_answer,,Canberra,Canberra
+quiz.q13.option_b,,Sydney,Sídney
+quiz.q13.option_c,,Melbourne,Melbourne
+quiz.q13.option_d,,Brisbane,Brisbane
+quiz.q14.question,,Who was the 46th President of the United States?,¿Quién fue el 46.º presidente de Estados Unidos?
+quiz.q14.correct_answer,,Joe Biden,Joe Biden
+quiz.q14.option_b,,Donald Trump,Donald Trump
+quiz.q14.option_c,,Barack Obama,Barack Obama
+quiz.q14.option_d,,George W. Bush,George W. Bush
+quiz.q15.question,,"Which element has the chemical symbol ""O""?",¿Qué elemento tiene el símbolo químico «O»?
+quiz.q15.correct_answer,,Oxygen,Oxígeno
+quiz.q15.option_b,,Gold,Oro
+quiz.q15.option_c,,Iron,Hierro
+quiz.q15.option_d,,Silver,Plata
+quiz.q16.question,,What is the currency of China?,¿Cuál es la moneda de China?
+quiz.q16.correct_answer,,Yuan,Yuan
+quiz.q16.option_b,,Yen,Yen
+quiz.q16.option_c,,Won,Won
+quiz.q16.option_d,,Ringgit,Ringgit
+quiz.q17.question,,"Who wrote the play ""Hamlet""?",¿Quién escribió la obra de teatro «Hamlet»?
+quiz.q17.correct_answer,,William Shakespeare,William Shakespeare
+quiz.q17.option_b,,Jane Austen,Jane Austen
+quiz.q17.option_c,,Charles Dickens,Charles Dickens
+quiz.q17.option_d,,F. Scott Fitzgerald,F. Scott Fitzgerald
+quiz.q18.question,,In which year did the Berlin Wall fall?,¿En qué año cayó el Muro de Berlín?
+quiz.q18.correct_answer,,1989,1989
+quiz.q18.option_b,,1985,1985
+quiz.q18.option_c,,1991,1991
+quiz.q18.option_d,,1995,1995
+quiz.q19.question,,What is the largest mammal in the world?,¿Cuál es el mamífero más grande del mundo?
+quiz.q19.correct_answer,,Blue whale,Ballena azul
+quiz.q19.option_b,,Elephant,Elefante
+quiz.q19.option_c,,Giraffe,Jirafa
+quiz.q19.option_d,,Gorilla,Gorila
+quiz.q20.question,,"Who is known as the ""Father of Computers""?",¿Quién es conocido como el «padre de la informática»?
+quiz.q20.correct_answer,,Alan Turing,Alan Turing
+quiz.q20.option_b,,Bill Gates,Bill Gates
+quiz.q20.option_c,,Steve Jobs,Steve Jobs
+quiz.q20.option_d,,Charles Babbage,Charles Babbage
+quiz.q21.question,,What is the official language of Brazil?,¿Cuál es el idioma oficial de Brasil?
+quiz.q21.correct_answer,,Portuguese,Portugués
+quiz.q21.option_b,,Spanish,Español
+quiz.q21.option_c,,French,Francés
+quiz.q21.option_d,,Italian,Italiano
+quiz.q22.question,,Who painted the Starry Night?,¿Quién pintó «La noche estrellada»?
+quiz.q22.correct_answer,,Vincent van Gogh,Vincent van Gogh
+quiz.q22.option_b,,Claude Monet,Claude Monet
+quiz.q22.option_c,,Pablo Picasso,Pablo Picasso
+quiz.q22.option_d,,Salvador Dalí,Salvador Dalí
+quiz.q23.question,,In which country is the Great Barrier Reef located?,¿En qué país se encuentra la Gran Barrera de Coral?
+quiz.q23.correct_answer,,Australia,Australia
+quiz.q23.option_b,,Brazil,Brasil
+quiz.q23.option_c,,Mexico,México
+quiz.q23.option_d,,India,India
+quiz.q24.question,,What is the smallest prime number?,¿Cuál es el número primo más pequeño?
+quiz.q24.correct_answer,,2,2
+quiz.q24.option_b,,0,0
+quiz.q24.option_c,,1,1
+quiz.q24.option_d,,3,3
+quiz.q25.question,,"Which planet is known as the ""Blue Planet""?",¿Qué planeta es conocido como el «planeta azul»?
+quiz.q25.correct_answer,,Earth,La Tierra
+quiz.q25.option_b,,Venus,Venus
+quiz.q25.option_c,,Mars,Marte
+quiz.q25.option_d,,Jupiter,Júpiter
+quiz.q26.question,,What is the chemical symbol for silver?,¿Cuál es el símbolo químico de la plata?
+quiz.q26.correct_answer,,Ag,Ag
+quiz.q26.option_b,,Si,Si
+quiz.q26.option_c,,Au,Au
+quiz.q26.option_d,,Fe,Fe
+quiz.q27.question,,"Who wrote the play ""Macbeth""?",¿Quién escribió la obra de teatro «Macbeth»?
+quiz.q27.correct_answer,,William Shakespeare,William Shakespeare
+quiz.q27.option_b,,Jane Austen,Jane Austen
+quiz.q27.option_c,,Charles Dickens,Charles Dickens
+quiz.q27.option_d,,F. Scott Fitzgerald,F. Scott Fitzgerald
+quiz.q28.question,,In which year did the United States declare its independence?,¿En qué año declaró su independencia Estados Unidos?
+quiz.q28.correct_answer,,1776,1776
+quiz.q28.option_b,,1774,1774
+quiz.q28.option_c,,1783,1783
+quiz.q28.option_d,,1800,1800
+quiz.q29.question,,What is the largest desert in the world?,¿Cuál es el desierto más grande del mundo?
+quiz.q29.correct_answer,,Antarctica,Antártida
+quiz.q29.option_b,,Sahara Desert,Desierto del Sahara
+quiz.q29.option_c,,Arabian Desert,Desierto arábigo
+quiz.q29.option_d,,Gobi Desert,Desierto del Gobi
+quiz.q30.question,,Who is the Greek god of the sea?,¿Quién es el dios griego del mar?
+quiz.q30.correct_answer,,Poseidon,Poseidón
+quiz.q30.option_b,,Zeus,Zeus
+quiz.q30.option_c,,Apollo,Apolo
+quiz.q30.option_d,,Hermes,Hermes
+quiz.q31.question,,What is the capital of Canada?,¿Cuál es la capital de Canadá?
+quiz.q31.correct_answer,,Ottawa,Ottawa
+quiz.q31.option_b,,Toronto,Toronto
+quiz.q31.option_c,,Vancouver,Vancouver
+quiz.q31.option_d,,Montreal,Montreal
+quiz.q32.question,,"Who wrote the novel ""To Kill a Mockingbird""?",¿Quién escribió la novela «Matar a un ruiseñor»?
+quiz.q32.correct_answer,,Harper Lee,Harper Lee
+quiz.q32.option_b,,J.R.R. Tolkien,J. R. R. Tolkien
+quiz.q32.option_c,,Jane Austen,Jane Austen
+quiz.q32.option_d,,George Orwell,George Orwell
+quiz.q33.question,,What is the square root of 64?,¿Cuál es la raíz cuadrada de 64?
+quiz.q33.correct_answer,,8,8
+quiz.q33.option_b,,6,6
+quiz.q33.option_c,,10,10
+quiz.q33.option_d,,12,12
+quiz.q34.question,,"Which planet is known as the ""Morning Star"" or ""Evening Star""?",¿Qué planeta es conocido como el «lucero del alba» o el «lucero vespertino»?
+quiz.q34.correct_answer,,Venus,Venus
+quiz.q34.option_b,,Mars,Marte
+quiz.q34.option_c,,Jupiter,Júpiter
+quiz.q34.option_d,,Mercury,Mercurio
+quiz.q35.question,,What is the chemical symbol for water?,¿Cuál es la fórmula química del agua?
+quiz.q35.correct_answer,,H2O,H₂O
+quiz.q35.option_b,,CO2,CO₂
+quiz.q35.option_c,,O2,O₂
+quiz.q35.option_d,,N2,N₂
+quiz.q36.question,,Who painted the Last Supper?,¿Quién pintó «La última cena»?
+quiz.q36.correct_answer,,Leonardo da Vinci,Leonardo da Vinci
+quiz.q36.option_b,,Michelangelo,Miguel Ángel
+quiz.q36.option_c,,Vincent van Gogh,Vincent van Gogh
+quiz.q36.option_d,,Pablo Picasso,Pablo Picasso
+quiz.q37.question,,In which year did Christopher Columbus first reach the Americas?,¿En qué año llegó Cristóbal Colón por primera vez a América?
+quiz.q37.correct_answer,,1492,1492
+quiz.q37.option_b,,1500,1500
+quiz.q37.option_c,,1607,1607
+quiz.q37.option_d,,1776,1776
+quiz.q38.question,,What is the largest bird in the world?,¿Cuál es el ave más grande del mundo?
+quiz.q38.correct_answer,,Ostrich,Avestruz
+quiz.q38.option_b,,Eagle,Águila
+quiz.q38.option_c,,Penguin,Pingüino
+quiz.q38.option_d,,Falcon,Halcón
+quiz.q39.question,,"Who is the author of ""The Great Gatsby""?",¿Quién es el autor de «El gran Gatsby»?
+quiz.q39.correct_answer,,F. Scott Fitzgerald,F. Scott Fitzgerald
+quiz.q39.option_b,,Ernest Hemingway,Ernest Hemingway
+quiz.q39.option_c,,Jane Austen,Jane Austen
+quiz.q39.option_d,,George Orwell,George Orwell
+quiz.q40.question,,What is the speed of light?,¿Cuál es la velocidad de la luz?
+quiz.q40.correct_answer,,"300,000 km/s",300.000 km/s
+quiz.q40.option_b,,"150,000 km/s",150.000 km/s
+quiz.q40.option_c,,"500,000 km/s",500.000 km/s
+quiz.q40.option_d,,"10,000 km/s",10.000 km/s
+quiz.q41.question,,Which country is known as the Land of the Rising Sun?,¿Qué país es conocido como el «país del sol naciente»?
+quiz.q41.correct_answer,,Japan,Japón
+quiz.q41.option_b,,China,China
+quiz.q41.option_c,,South Korea,Corea del Sur
+quiz.q41.option_d,,Vietnam,Vietnam
+quiz.q42.question,,What is the currency of the United Kingdom?,¿Cuál es la moneda del Reino Unido?
+quiz.q42.correct_answer,,Pound Sterling,Libra esterlina
+quiz.q42.option_b,,Euro,Euro
+quiz.q42.option_c,,Dollar,Dólar
+quiz.q42.option_d,,Yen,Yen
+quiz.q43.question,,Who is the lead vocalist of the band Queen?,¿Quién es el vocalista principal del grupo Queen?
+quiz.q43.correct_answer,,Freddie Mercury,Freddie Mercury
+quiz.q43.option_b,,John Lennon,John Lennon
+quiz.q43.option_c,,Mick Jagger,Mick Jagger
+quiz.q43.option_d,,David Bowie,David Bowie
+quiz.q44.question,,In which year did the first moon landing occur?,¿En qué año tuvo lugar el primer alunizaje?
+quiz.q44.correct_answer,,1969,1969
+quiz.q44.option_b,,1961,1961
+quiz.q44.option_c,,1975,1975
+quiz.q44.option_d,,1983,1983
+quiz.q45.question,,What is the largest island in the world?,¿Cuál es la isla más grande del mundo?
+quiz.q45.correct_answer,,Greenland,Groenlandia
+quiz.q45.option_b,,Australia,Australia
+quiz.q45.option_c,,Borneo,Borneo
+quiz.q45.option_d,,Madagascar,Madagascar
+quiz.q46.question,,Who painted the Sistine Chapel ceiling?,¿Quién pintó el techo de la Capilla Sixtina?
+quiz.q46.correct_answer,,Michelangelo,Miguel Ángel
+quiz.q46.option_b,,Leonardo da Vinci,Leonardo da Vinci
+quiz.q46.option_c,,Raphael,Rafael
+quiz.q46.option_d,,Donatello,Donatello
+quiz.q47.question,,What is the capital of South Africa?,¿Cuál es la capital de Sudáfrica?
+quiz.q47.correct_answer,,Pretoria,Pretoria
+quiz.q47.option_b,,Nairobi,Nairobi
+quiz.q47.option_c,,Cape Town,Ciudad del Cabo
+quiz.q47.option_d,,Johannesburg,Johannesburgo
+quiz.q48.question,,Who discovered penicillin?,¿Quién descubrió la penicilina?
+quiz.q48.correct_answer,,Alexander Fleming,Alexander Fleming
+quiz.q48.option_b,,Marie Curie,Marie Curie
+quiz.q48.option_c,,Louis Pasteur,Louis Pasteur
+quiz.q48.option_d,,Joseph Lister,Joseph Lister
+quiz.q49.question,,What is the largest moon of Jupiter?,¿Cuál es la luna más grande de Júpiter?
+quiz.q49.correct_answer,,Ganymede,Ganímedes
+quiz.q49.option_b,,Io,Ío
+quiz.q49.option_c,,Europa,Europa
+quiz.q49.option_d,,Callisto,Calisto
+quiz.q50.question,,"Who wrote the novel ""1984""?",¿Quién escribió la novela «1984»?
+quiz.q50.correct_answer,,George Orwell,George Orwell
+quiz.q50.option_b,,Aldous Huxley,Aldous Huxley
+quiz.q50.option_c,,Ray Bradbury,Ray Bradbury
+quiz.q50.option_d,,H.G. Wells,H. G. Wells
