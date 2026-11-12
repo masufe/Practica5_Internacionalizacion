@@ -68,6 +68,14 @@ MonoBehaviour:
       Starting Game Soon'
     m_Metadata:
       m_Items: []
+  - m_Id: 1056466391089152
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057055082627072
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

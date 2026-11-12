@@ -63,6 +63,14 @@ MonoBehaviour:
     m_Key: quiz_intro
     m_Metadata:
       m_Items: []
+  - m_Id: 1056466391089152
+    m_Key: lobby.language_english
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057055082627072
+    m_Key: lobby.language_spanish
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
